@@ -1,0 +1,10 @@
+## Interface: 11305
+## Title: Scarab Roulette
+## Notes: Lightweight addon that chooses a random AQ40 scarab to use as a mount (when in AQ40).
+## Author: Felin - Blaumeux
+# Last Updated: 10/26/2020
+## Version: 1.0
+
+
+# The run file.
+Scarab_Roulette_Classic.lua

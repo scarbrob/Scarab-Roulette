@@ -1,0 +1,1 @@
+This is the LUA code for the Classic WoW Scarab Roulette addon. The addon searches your characters' inventory for the scarab mounts from AQ40, and randomly selects one for use.
